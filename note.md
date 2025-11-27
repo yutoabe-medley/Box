@@ -6,4 +6,7 @@
 [MCP(データ)](https://business.ntt-east.co.jp/content/cloudsolution/ih_column-193.html)  
 [AtCoder World Tour Finals 2025 Heuristic エキシビションについてのchokudaiのブログ](https://chokudai.hatenablog.com/entry/2025/07/21/190935)  
 
+Sidekiq Pro  
+GAS clasp  
+Dify  
 
