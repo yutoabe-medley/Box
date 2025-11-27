@@ -10,3 +10,5 @@ Sidekiq Pro
 GAS clasp  
 Dify  
 
+[Bedrock](https://docs.aws.amazon.com/ja_jp/bedrock/latest/userguide/models-supported.html)  
+
